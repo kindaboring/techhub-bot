@@ -12,7 +12,7 @@
 3. Responds to "!schedule" commands from students in the student_text channel by displaying the semester's Lab Admin schedule.
 4. Responds to "!techhub" commands from students in the student_text channel by displaying a link to the TechHub website.
 
-## Requirements:
+## Dependencies:
 - [Python](https://www.python.org/downloads/)
 - [discord.py](https://discordpy.readthedocs.io/en/stable/)
 - [dotenv](https://pypi.org/project/python-dotenv/)
