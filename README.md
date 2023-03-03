@@ -1,5 +1,5 @@
 # TechHub Bot
-### The Official Bot for the Towson University CIS TechHub Discord.
+### A Python bot for the Towson University CIS TechHub Discord.
 
 ## Functionalities:
 
